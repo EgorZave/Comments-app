@@ -1,0 +1,15 @@
+.comment {
+   display: flex;
+   list-style: none;
+   background-color: white;
+   margin: 10px;
+
+   &__block {
+      width: 50px;
+      height: 50px;
+   }
+
+   &__text {
+      margin-left: 10px;
+   }
+}
